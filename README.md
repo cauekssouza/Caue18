@@ -5,18 +5,18 @@ Olá tudo bem meu nome é Cauê
 - Também sei sobre html, css e mysql
 - he/him 
 ### Olá sou o Cauê 👍
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauestadlerde?igsh=emp6dG5tMWFyaGl0&utm_source=qr)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/CCwe5shn3zPyuyD7/?mibextid=eQY6cl)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caue18)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%AA-souza-959275241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://cauekssouza@gmail.com)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/cauestadlerde?igsh=emp6dG5tMWFyaGl0&utm_source=qr)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)(https://www.facebook.com/share/CCwe5shn3zPyuyD7/?mibextid=eQY6cl)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Caue18)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/cau%C3%AA-souza-959275241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://cauekssouza@gmail.com)
 
 ![Caue Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Caue18&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caue18&hide_progress=true)
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/cauekssouza17)
-[![IDE]](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)(https://www.tiktok.com/cauekssouza17)
+
 
 ### IDE que estou usando atualmente é:
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
