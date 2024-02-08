@@ -11,7 +11,7 @@ Olá tudo bem meu nome é Cauê
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%AA-souza-959275241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://cauekssouza@gmail.com)
 
-![Caue18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Caue18&show_icons=true&theme=radical)
+![Caue Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=Caue18&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caue18&hide_progress=true)
 
