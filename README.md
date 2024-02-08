@@ -18,6 +18,9 @@ Olá tudo bem meu nome é Cauê
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/cauekssouza17)
 [![IDE]](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### IDE que estou usando atualmente é:
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 ### Tecnologias que aprendi atualmente
 
 <div style="display: incine_block"><br/>
