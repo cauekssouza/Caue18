@@ -16,6 +16,7 @@ Olá tudo bem meu nome é Cauê
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caue18&hide_progress=true)
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/cauekssouza17)
+[![Ide](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Tecnologias que aprendi atualmente
 
