@@ -20,6 +20,8 @@
 ### Outras Plataformas:
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/cauekssouza17)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://t.snapchat.com/FbB1cw3X)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://https://twitter.com/cauekssouza)
 
 ### IDE Atual:
 
