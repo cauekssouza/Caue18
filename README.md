@@ -1,4 +1,5 @@
 # Olá sou o Cauê 👍
+- https://dev.to/envoy_/150-badges-for-github-pnk
 
 - Meu nome é Cauê.
 - Sou estudante de Engenharia de Software na PUCPR.
@@ -40,7 +41,13 @@
 - Java: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Estudando 
-- C : ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+- C : ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## Começando 
+- React JS: ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB).
+
+
+
 ### Ainda Vou e Quero Aprender:
 
 
