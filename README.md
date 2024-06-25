@@ -10,7 +10,7 @@
 
 ### Redes Sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauestadlerde?igshid=emp6dG5tMWFyaGl0&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauvetue?igshid=emp6dG5tMWFyaGl0&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/CCwe5shn3zPyuyD7/?mibextid=eQY6cl)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cauekssouza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%AA-souza-959275241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
