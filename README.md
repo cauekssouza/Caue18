@@ -1,4 +1,3 @@
-# Olá sou o Cauê 👍
 - https://dev.to/envoy_/150-badges-for-github-pnk
 - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#office
 
