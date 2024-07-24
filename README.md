@@ -20,25 +20,18 @@
 ## Estatísticas do GitHub
 ![Caue Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=cauekssouza&show_icons=true&theme=radical)
 
-## Emojis para Diversão
-### Office
-- :file_folder: `:file_folder:`
-- :open_file_folder: `:open_file_folder:`
-- :card_index_dividers: `:card_index_dividers:`
-- :date: `:date:`
-- :calendar: `:calendar:`
-- :clipboard: `:clipboard:`
-- :pushpin: `:pushpin:`
-- :round_pushpin: `:round_pushpin:`
-- :paperclip: `:paperclip:`
-- :straight_ruler: `:straight_ruler:`
-- :triangular_ruler: `:triangular_ruler:`
-- :scissors: `:scissors:`
-- :card_file_box: `:card_file_box:`
-- :file_cabinet: `:file_cabinet:`
-- :wastebasket: `:wastebasket:`
-- :lock: `:lock:`
-- :unlock: `:unlock:`
-- :closed_lock_with_key: `:closed_lock_with_key:`
-- :key: `:key:`
-- :old_key: `:old_key:`
+## Redes de Contato
+<div>
+  <a href="https://www.instagram.com/cauvetue/" target="_blank" title="Instagram">
+    <i class="fab fa-instagram"></i>
+  </a>
+  <a href="caue19" target="_blank" title="Discord">
+    <i class="fab fa-discord"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/cau%C3%AAkssouza/" target="_blank" title="LinkedIn">
+    <i class="fab fa-linkedin"></i>
+  </a>
+  <a href="cauekssouza@gmail.com" target="_blank" title="Gmail">
+    <i class="fas fa-envelope"></i>
+  </a>
+</div>
