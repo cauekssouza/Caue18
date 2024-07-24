@@ -21,17 +21,8 @@
 ![Caue Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=cauekssouza&show_icons=true&theme=radical)
 
 ## Redes de Contato
-<div>
-  <a href="https://www.instagram.com/cauvetue/" target="_blank" title="Instagram">
-    <i class="fab fa-instagram"></i>
-  </a>
-  <a href="caue19" target="_blank" title="Discord">
-    <i class="fab fa-discord"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/cau%C3%AAkssouza/" target="_blank" title="LinkedIn">
-    <i class="fab fa-linkedin"></i>
-  </a>
-  <a href="cauekssouza@gmail.com" target="_blank" title="Gmail">
-    <i class="fas fa-envelope"></i>
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauvetue/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/caue19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%AAkssouza/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauekssouza@gmail.com)
+
